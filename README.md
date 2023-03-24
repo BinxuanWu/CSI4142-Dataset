@@ -2,6 +2,8 @@
 
 #### DBMS: MySql
 
+## BEFORE USING SQL !!!
+
 Before using the database.sql file on your local machine, you need to create a local database 'beijing_housing_price'.
 
 - If you are using phpMyAdmin, you can enter the phpMyAdmin homepage, click on the “New” link then
