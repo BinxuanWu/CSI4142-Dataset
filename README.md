@@ -14,7 +14,7 @@ Before using the database.sql file on your local machine, you need to create a l
 
 After creating the database, you can now import database.sql file into you MySQL database.
 
-[Database File](\Deliverable%202\database.sql)
+[database.sql](\Deliverable%202\database.sql)
 
 # Deliverable 3 
 
