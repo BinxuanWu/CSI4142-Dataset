@@ -18,4 +18,4 @@ After creating the database, you can now import database.sql file into you MySQL
 
 Phase 3 SQL queries
 
-[SQL](\Deliverable%203\sql.sql)
+[SQL Query File](\Deliverable%203\sql.sql)
