@@ -1,5 +1,6 @@
 # CSI4142-Project
 
+# Deliverable 2
 #### DBMS: MySql
 
 ## BEFORE USING SQL !!!
@@ -12,3 +13,8 @@ Before using the database.sql file on your local machine, you need to create a l
 - If you are using command line, you can use`CREATE DATABASE beijing_housing_price;` to create your local database.
 
 After creating the database, you can now import database.sql file into you MySQL database.
+
+# Deliverable 3
+
+Phase 3 SQL queries
+[SQL](/Deliverable 3/sql.sql)
