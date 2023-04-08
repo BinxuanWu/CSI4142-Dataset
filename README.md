@@ -18,4 +18,6 @@ After creating the database, you can now import database.sql file into you MySQL
 
 ## Phase 3
 
+[OLAP Operation](https://colab.research.google.com/drive/1Vy0zT7kaXjsAjm90bKWuWvnL0yCD92I7#scrollTo=D9bCChhVXYbK)
 [SQL Query File](\Deliverable%203\sql.sql)
+
