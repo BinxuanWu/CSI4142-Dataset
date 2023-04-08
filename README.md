@@ -1,5 +1,12 @@
 # CSI4142-Project
 
+### Group 1 Member
+| Name | Student ID |
+|-------|---------------|
+| Gary Gao | 300124236|
+| Yingqi Feng | 300077437|
+| Binxuan Wu | 300142301 | 
+
 # Deliverable 2
 #### DBMS: MySql
 
