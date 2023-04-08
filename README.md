@@ -17,4 +17,5 @@ After creating the database, you can now import database.sql file into you MySQL
 # Deliverable 3
 
 Phase 3 SQL queries
-[SQL](\Deliverable 3\sql.sql)
+
+[SQL](\Deliverable%203\sql.sql)
