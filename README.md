@@ -29,3 +29,6 @@ After creating the database, you can now import database.sql file into you MySQL
 
 [SQL Query File](\Deliverable%203\sql.sql)
 
+## Deliverable 4 (Phase 4)
+
+[Data Mining Jupyter Notebook](https://colab.research.google.com/drive/14GP2EMjTBCMyF_TyEabGcNNOgEWDV2dA)
