@@ -7,7 +7,7 @@
 | Yingqi Feng | 300077437|
 | Binxuan Wu | 300142301 | 
 
-## Deliverable 2
+## Deliverable 2 (Phase 2)
 #### DBMS: MySql
 
 ### BEFORE USING SQL !!!
@@ -23,11 +23,12 @@ After creating the database, you can now import database.sql file into you MySQL
 
 [database.sql](\Deliverable%202\database.sql)
 
-## Deliverable 3 
-
-### Phase 3
+## Deliverable 3 (Phase 3)
 
 [OLAP Operation](https://colab.research.google.com/drive/1Vy0zT7kaXjsAjm90bKWuWvnL0yCD92I7#scrollTo=D9bCChhVXYbK)
 
 [SQL Query File](\Deliverable%203\sql.sql)
 
+## Deliverable 4 (Phase 4)
+
+[Data Mining Jupyter Notebook](https://colab.research.google.com/drive/14GP2EMjTBCMyF_TyEabGcNNOgEWDV2dA)
